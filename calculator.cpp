@@ -40,7 +40,6 @@ int main() {
 //The multiplication is: 1935
 //The division is: 1.04651
 
-}
 
-//output
-//
+
+
