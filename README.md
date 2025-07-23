@@ -27,6 +27,14 @@ This is the introductory program that familiarizes users with basic C++ syntax a
 
 **Sample Output:**
 
+Enter the first number: 45
+Enter the second number: 90
+
+Addition: 135
+Subtraction: -45
+Multiplication: 4050
+Division: 0.5
+
 **Purpose:**  
 To understand how to perform calculations and display results effectively in C++.
 
