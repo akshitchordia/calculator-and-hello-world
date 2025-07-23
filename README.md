@@ -1,60 +1,43 @@
 # C++ Foundation Programs
 
-Name: Akshit Chordia
-PRN: 24070123008
-Division: ENTC-A1
-Title: Fundamentals of C++ Programming – Basics, Variables, Data Types, and I/O
-Tools Used: Visual Studio Code
+**Name:** Akshit Chordia  
+**PRN:** 24070123008  
+**Division:** ENTC-A1  
+**Title:** Fundamentals of C++ Programming – Basics, Variables, Data Types, and I/O  
+**Tools Used:** Visual Studio Code  
 
-Overview
-This repository showcases a series of beginner-friendly C++ programs created to build a solid base in programming. Each code example covers essential concepts like user input/output, data types, arithmetic operations, and program flow. The objective is to provide hands-on experience in writing and understanding basic C++ syntax and logic.
+---
 
-1. Basic Output Program ("Hello, World!")
-This is the classic starting point for any programming journey. It helps introduce the basic syntax and layout of a C++ program.
+## Overview
 
-Concepts Demonstrated:
+This repository contains a series of beginner-level C++ programs designed to help new programmers grasp the core concepts of the language. Each program demonstrates essential components such as input/output handling, variables, data types, and arithmetic operations. The goal is to build a strong foundation for future exploration into more advanced C++ topics.
 
-Inclusion of header file #include <iostream> for I/O operations
+---
 
-The main() function as the program’s entry point
+## Program List
 
-Use of cout to print output to the screen
+### 1. Hello, World! Program
 
-Sample Output:
+This is the introductory program that familiarizes users with basic C++ syntax and structure.
 
-css
-Copy
-Edit
-HELLO WORLD  
-HI! I AM AKSHIT CHORDIA
-Purpose:
-To get familiar with the program structure and output statements in C++.
+**Concepts Covered:**
+- `#include <iostream>` for I/O operations
+- The `main()` function
+- Output using `cout`
 
-2. Arithmetic Calculator
-This program simulates a simple calculator that performs basic arithmetic functions like addition, subtraction, multiplication, and division.
+**Sample Output:**
 
-Features:
+**Purpose:**  
+To understand how to perform calculations and display results effectively in C++.
 
-Takes two floating-point numbers from the user using cin
+---
 
-Executes all four basic operations
+## Conclusion
 
-Outputs the results with clear labeling
+These basic C++ programs are ideal for building a foundation in programming. They teach syntax, logical structure, and problem-solving approaches essential for more complex tasks such as loops, arrays, and object-oriented programming. Mastering these programs will make it easier to transition into intermediate and advanced topics.
 
-Sample Output:
+---
 
-yaml
-Copy
-Edit
-Enter the first number: 45  
-Enter the second number: 90  
-
-Addition: 135  
-Subtraction: -45  
-Multiplication: 4050  
-Division: 0.5
-Purpose:
-To understand how to take input, process calculations, and display results — a core skill in all programming applications.
-
-Conclusion
-These introductory programs help establish a strong command of C++ fundamentals. By practicing with these examples, learners can develop confidence in writing basic programs, which is essential before moving on to more complex topics like loops, conditionals, arrays, functions, and object-oriented concepts.
+Submitted by **Akshit Chordia**  
+**PRN:** 24070123008  
+**Division:** ENTC-A1
